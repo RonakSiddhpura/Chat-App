@@ -1,8 +1,9 @@
-﻿Real-Time Messaging Chat App
-
+# ﻿Real-Time Messaging Chat App
+<br>
 A real-time messaging chat application built with React, Socket.io, Node.js, Redux Toolkit, and MongoDB. This app allows users to send and receive messages in real time, with user authentication and cloud image uploads powered by Cloudinary.
 
-Features
+# Features
+<br>
 Real-time messaging: Messages are sent and received instantly using Socket.io.
 User authentication: JWT-based authentication with secure login and registration.
 Cloud file uploads: Upload images to Cloudinary and share them in chat.
