@@ -12,12 +12,15 @@ User-friendly UI: A clean and responsive user interface built with React and Red
 # Server .env file
 
 FRONTEND_URL = <Frontend URL>
+<br>
 MONGODB_URI  = <Mongodb URI>
+<br>
 JWT_SECREAT_KEY = <JWT Secreat Key>
 
 # client .env file
 
 REACT_APP_CLOUDINARY_CLOUD_NAME = <Cloudinary cloud name>
+<br>
 REACT_APP_BACKEND_URL = <Backend URL>
 
 
